@@ -1,0 +1,11 @@
+text,sentiment,summary,expected_generation
+I had an amazing experience with the product. It was delivered on time and worked perfectly.,POSITIVE,Timely delivery and great product.,I had an amazing experience with the product. It exceeded my expectations and I highly recommend it.
+The support team was very rude and unhelpful.,NEGATIVE,Unhelpful and rude support team.,The support team made me feel ignored and upset due to their rudeness.
+The package arrived late but the item was in good condition.,NEUTRAL,Late delivery but good condition.,"Although the package came late, I was satisfied with the product quality."
+This is my favorite book of all time!,POSITIVE,Best book I've read.,This book captivated me from start to finish. A true masterpiece.
+The food was bland and cold.,NEGATIVE,Food was not tasty or warm.,"The food lacked flavor and was served cold, ruining the meal."
+Customer service was quick and responsive.,POSITIVE,Quick and effective support.,They responded immediately and solved my issue in no time.
+Battery life is decent but charging takes forever.,NEUTRAL,"Good battery, poor charging.","The device lasts long, but charging it feels like an eternity."
+I love the interface but hate the frequent bugs.,NEUTRAL,"Nice UI, buggy app.",Using the app is a pleasure until the bugs crash it.
+The tutorial was easy to follow and very helpful.,POSITIVE,Helpful and simple tutorial.,I learned everything quickly thanks to the clear instructions.
+I regret buying this item. It stopped working in two days.,NEGATIVE,"Bad quality item, broke quickly.",The product failed after just two days of use. I'm disappointed.
