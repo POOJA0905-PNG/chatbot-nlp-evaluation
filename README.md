@@ -14,3 +14,23 @@ Fine-tuned Models for improved accuracy
 Scalable Architecture for future NLP task integration
 User-Friendly Interface built with Streamlit
 
+Structure of the Project:
+nlp_evaluator/
+│
+├── app.py                         # 🚀 Main Streamlit app file – connects UI to backend logic
+│
+├── data/                          # 📁 Contains datasets for evaluation
+│   └── sample_nlp_dataset.csv     # A sample CSV used for testing and evaluation
+│
+├── evaluation/                    # 📁 Module for evaluation logic
+│   ├── metrics.py                 # 📊 Calculates metrics (accuracy, F1, etc.)
+│
+├── models/                        # 📁 Handles inference logic
+│   └── inference.py              # 🧠 Loads models and runs predictions on input text
+│
+├── utils/                         # 📁 Utility scripts (if any added later)
+│    └── plot_helpers.py           # 📈 Functions to create visual plots like confusion matrix
+│
+├── venv/                          # 📁 Virtual environment (auto-created folder for dependencies)
+│
+└── README.md                      # 📄 Project description, setup guide, usage, etc.
